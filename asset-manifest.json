@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/certificate-generator/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/certificate-generator/static/js/main.8295ca66.chunk.js",
+    "main.js.map": "/certificate-generator/static/js/main.8295ca66.chunk.js.map",
+    "runtime-main.js": "/certificate-generator/static/js/runtime-main.753e3573.js",
+    "runtime-main.js.map": "/certificate-generator/static/js/runtime-main.753e3573.js.map",
+    "static/js/2.33d0363b.chunk.js": "/certificate-generator/static/js/2.33d0363b.chunk.js",
+    "static/js/2.33d0363b.chunk.js.map": "/certificate-generator/static/js/2.33d0363b.chunk.js.map",
+    "static/js/3.e43a4c5b.chunk.js": "/certificate-generator/static/js/3.e43a4c5b.chunk.js",
+    "static/js/3.e43a4c5b.chunk.js.map": "/certificate-generator/static/js/3.e43a4c5b.chunk.js.map",
+    "index.html": "/certificate-generator/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/certificate-generator/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.33d0363b.chunk.js.LICENSE.txt": "/certificate-generator/static/js/2.33d0363b.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/certificate-generator/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.753e3573.js",
+    "static/js/2.33d0363b.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.8295ca66.chunk.js"
+  ]
+}
